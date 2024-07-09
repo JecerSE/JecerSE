@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Feeding My Snake Contributions 🐍</h2>
   <br>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JecerSE/JecerSE/output/github-contribution-grid-snake.svg">
   
