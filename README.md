@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="Halas Na Mokaon ug Contribution" src="https://raw.githubusercontent.com/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   
   <br/><br/><br/>
 </div>
