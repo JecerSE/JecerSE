@@ -67,7 +67,7 @@
 <br/>
 
 <div align="center">
-<a href='ko-fi.com/komiwashere' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Mangape Ta Guys!' /></a>
+<a href='https://ko-fi.com/komiwashere' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Mangape Ta Guys!' /></a>
 </div>
 
 <br/>
