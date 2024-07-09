@@ -14,6 +14,8 @@
  
  🌱 I’m currently learning **C++, Python, Java**
 
+ 💬 At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn.
+
  </div>
  
 <div align="center"> 
