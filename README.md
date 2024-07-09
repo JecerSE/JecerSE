@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,javascript,cpp,vscode,html,java,git" /> <br>
+        <img src="https://skillicons.dev/icons?i=github,javascript,cpp,vscode,html,java,git,python" /> <br>
     </a>
 </div>
 
@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JecerSE.JecerSE/output/github-contribution-grid-snake.svg" />
+  <img alt="Halas Na Mokaon ug Contribution" src="https://raw.githubusercontent.com/JecerSE.JecerSE/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
