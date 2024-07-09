@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,leetcode,cpp,vscode,html,java,git" /> <br>
+        <img src="https://skillicons.dev/icons?i=github,javascript,cpp,vscode,html,java,git" /> <br>
     </a>
 </div>
 
