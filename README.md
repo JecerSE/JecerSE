@@ -33,9 +33,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="" />
-    <img src="" /><br>
-
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,leetcode,cpp,vscode,html,java,git" /> <br>
+    </a>
 </div>
 
 <br/>
