@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JecerSE.JecerSE" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Magangdang+Araw!+👋;+Ako+si+Jecer+Egagamao!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Coders!+👋;+Im+Jecer+Egagamao!;" />
 </h1>
 
 <h3 align="center">An aspiring Computer Science student from the Phillipines 🇵🇭</h3>
