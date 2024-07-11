@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** "FLOW" a POS and Inventory System for small business owners**
+ 🔭 I’m currently working on **"FLOW" a POS and Inventory System for small business owners**
  
  🌱 I’m currently learning **C++, Python, Java**
 
