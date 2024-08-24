@@ -16,6 +16,7 @@
 
  💬 At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn.
 
+〽️ This is my Public Github account, Send me an email at egagamaojecer@gmail.com for my alternate github account, with all my projects there
  </div>
  
 <div align="center"> 
