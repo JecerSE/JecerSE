@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **"FLOW" a POS and Inventory System for small business owners**
  
- 🌱 I’m currently learning **C++, Python, Java**
+ 🌱 I’m currently learning **C++, Python, Javascipt (Mostly Discordjs)**
 
  💬 At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn.
 
-〽️ This is my Public Github account, Send me an email at the button below for my alternate github account, with all my projects there
+〽️ This is my Public Github account, Send me an email at the button below for my alternate github account, with all my projects there and custom tokens where my bots for my discord are, mutiple game projects and more.
  </div>
  
 <div align="center"> 
