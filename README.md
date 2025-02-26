@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **"FLOW" a POS and Inventory System for small business owners**
+ 🔭 I’m currently working on Komsai 2025 Hackathon Project called Project U-Tok, (check in the repository for more information)
  
  🌱 I’m currently learning **C++, Python, Javascipt (Mostly Discordjs)**
 
