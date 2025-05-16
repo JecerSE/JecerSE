@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2FS-5RnOvTrQ4AAAAM%2Flappland-arknights.gif&sp=1747427178Ta2cd11580d811ab3e00c26ce3579ffdd814d28413e7a88a45598b1b5323bc4aa" alt="Anime Coding Banner - Replace with your preferred banner URL" width="700"/>
+  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2FS-5RnOvTrQ4AAAAM%2Flappland-arknights.gif&sp=1747427178Ta2cd11580d811ab3e00c26ce3579ffdd814d28413e7a88a45598b1b5323bc4aa" alt="Anime Coding Banner" width="700"/>
 
 
 <h3 align="center">An aspiring Computer Science student from the Philippines 🇵🇭 with a passion for game development and creative coding!</h3>
@@ -60,7 +60,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github,javascript,cpp,vscode,git,python,sfml,discordjs" alt="My Skills"/> <br>
+        <img src="https://skillicons.dev/icons?i=github,javascript,cpp,vscode,git,python,discordjs" alt="My Skills"/> <br>
     </a>
 </div>
 
@@ -71,7 +71,7 @@
   <h2>🐍 Feeding My Contribution Spirit 🐉</h2>
   <br>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JecerSE/JecerSE/output/github-contribution-grid-snake.svg">
-  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fc.tenor.com%2FMeoCd3ECSksAAAAC%2Farknights-endfield-arknights.gif&sp=1747426890T98b0ca35b642f5528ec0b8ec8f4274cc0abbc04e8b8a5df4273290236bfbe322" alt="Coding Spirit" width="50"/>
+  <img src="https://media1.tenor.com/m/9k7dV0nJk1AAAAAd/prts-priestess.gif" alt="Coding Spirit" width="50"/>
   <br/><br/><br/>
 </div>
 
