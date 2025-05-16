@@ -2,8 +2,6 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JecerSE.JecerSE" alt="Visitor Badge"/>
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Coders!+👋;+I'm+Jecer+Egagamao!;" alt="Hello Fellow Coders! I'm Jecer Egagamao!"/>
 </h1>
 
 
