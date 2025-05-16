@@ -1,14 +1,3 @@
-Using <p align="center"> for paragraphs that need centering.
-
-Ensured alt text for all images.
-
-target="_blank" for all external links.
-
-Consistency: Maintained your existing style and tools where they work well.
-
-Revised GitHub Profile README Code:
-(Copy and paste this into your README.md)
-
 <div align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JecerSE.JecerSE" alt="Visitor Badge"/>
 </div>
