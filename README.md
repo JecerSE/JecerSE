@@ -8,9 +8,8 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/sM6n5Qp.gif" alt="Anime Coding Banner - Replace with your preferred banner URL" width="700"/>
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.V5rfvjA5dx0fXHGFeyAKlgHaEc%26cb%3Diwc2%26pid%3DApi&sp=1747426890T26c787df3ac00babf3a408a7f799d700173ce480aca30b19c6f928a29ca067a7" alt="Coding Dreams Banner" width="700"/>
-</p>
+  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2FS-5RnOvTrQ4AAAAM%2Flappland-arknights.gif&sp=1747427178Ta2cd11580d811ab3e00c26ce3579ffdd814d28413e7a88a45598b1b5323bc4aa" alt="Anime Coding Banner - Replace with your preferred banner URL" width="700"/>
+
 
 <h3 align="center">An aspiring Computer Science student from the Philippines 🇵🇭 with a passion for game development and creative coding!</h3>
 
