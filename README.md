@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently pouring my energy into <strong>Project-T</strong>, a C++/SFML-based platformer game – my capstone project!
+ 🔭 I’m currently pouring my energy into <strong>Celestial Speedrun</strong>, a C++/SFML-based platformer game – my capstone project!
  <br/>
  🌱 My learning journey is focused on mastering <strong>C++, Python, and JavaScript (especially Discord.js for bot development)</strong>.
  <br/>
