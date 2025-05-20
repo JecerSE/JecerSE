@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2FS-5RnOvTrQ4AAAAM%2Flappland-arknights.gif&sp=1747427178Ta2cd11580d811ab3e00c26ce3579ffdd814d28413e7a88a45598b1b5323bc4aa" alt="Anime Coding Banner" width="700"/>
+  <img src="https://media.tenor.com/YUSyo0ESffIAAAAC/arknights-lappland.gif" alt="SELF INSERT BG IF BROKEN" width="700"/>
 
 
 <h3 align="center">An aspiring Computer Science student from the Philippines 🇵🇭 with a passion for game development and creative coding!</h3>
