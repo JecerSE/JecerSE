@@ -50,7 +50,7 @@ PROJECTS = [
      "Real-time competitive SQL. Your queries are spells, and your opponent can watch them forming and cast a counter.",
      "Multiplayer · SQL · Steam-bound"),
     ("quest-bruteon", "IN PROGRESS", "剛", "BRUTEON",
-     "Neo-brutalist Quickshell overlay for my CachyOS desktop. Cream panels, hard borders, offset shadows. Like this page.",
+     "Quickshell overlay dashboard for my CachyOS desktop. Soft-dark panels, hairline borders, ambient depth.",
      "Quickshell · QML · KDE Plasma"),
     ("archive-bot", "SHIPPED", "機", "PURSION-BOT",
      "Discord bot for the Block C server: slash commands, a role picker, and schedule reminders.",
@@ -83,7 +83,7 @@ SECTIONS = [  # file, number, title, kanji
 OFFDUTY = [
     ("PLAYING",     ["Arknights: Endfield", "Skyblade"]),
     ("DREAMING UP", ["A xianxia idle game", "Wizard SQL Duel"]),
-    ("RICING",      ["bruteon (current)", "Wuling (retired)"]),
+    ("RICING",      ["Soft-dark Quickshell", "Wuling (retired)"]),
 ]
 
 # ── PRIMITIVES ───────────────────────────────────────────────────────
@@ -225,7 +225,7 @@ def footer():
     W, H = 1200, 132
     b = [box(4, 4, 1176, 108, fill=INK, shadow=MUSTARD)]
     b.append(text(36, 58, "THANKS FOR STOPPING BY", 30, CREAM, 800))
-    b.append(text(36, 92, "BUILT IN THE BRUTEON STYLE // CEBU, PH", 16, MUSTARD, 700))
+    b.append(text(36, 92, "BUILT NEO-BRUTALIST // CEBU, PH", 16, MUSTARD, 700))
     b.append(text(1152, 84, "またね", 52, CINNABAR, 900, "end", CJK))
     write("footer", svg(W, H, "\n".join(b), "Thanks for stopping by — mata ne"))
 

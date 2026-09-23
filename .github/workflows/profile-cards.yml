@@ -1,0 +1,43 @@
+# Builds every live card for the profile README and publishes them to the
+# `output` branch: the snake plus self-generated stats, languages and activity
+# cards. No third-party card services, so no free-tier quotas to run out.
+#
+# Optional: add a repo secret STATS_TOKEN (fine-grained PAT: Repository permissions → Metadata: read-only)
+# to include private-repo languages and private contributions.
+name: generate profile cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats, languages, activity
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/stats_cards.py ${{ github.repository_owner }} dist
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-bruteon.svg?color_snake=#C8321E&color_dots=#EDE6DA,#D9C9B0,#E8B730,#8A5A3C,#1A1512
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

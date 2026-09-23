@@ -139,7 +139,7 @@
   |:--|:--|
   | **Machine** | ASUS ROG Zephyrus G14 · Ryzen AI 9 HX 370 · RTX 5060 · 32GB |
   | **OS** | CachyOS + KDE Plasma · btrfs · Limine |
-  | **Rice** | *bruteon* — neo-brutalist, JetBrainsMono Nerd Font (retired: *Wuling*, an ink-and-cinnabar GlazeWM rice) |
+  | **Rice** | Soft-dark Quickshell setup — hairline borders, ambient depth (retired: *Wuling*, an ink-and-cinnabar GlazeWM rice) |
   | **Brain** | Obsidian vault + Dataview — roadmap, coursework, lab notes |
 
 </details>
@@ -149,23 +149,20 @@
 <!-- ─────────────────────────── 05 ─────────────────────────── -->
 <p align="center"><img src="assets/h-05-fieldlog.svg" width="100%" alt="05 — Field Log"/></p>
 
+<!-- stats / langs / activity are built by .github/workflows/profile-cards.yml into the `output` branch -->
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats-gules-phi.vercel.app?user=JecerSE&background=EDE6DA&border=1A1512&stroke=1A1512&ring=C8321E&fire=C8321E&currStreakNum=1A1512&sideNums=1A1512&currStreakLabel=C8321E&sideLabels=1A1512&dates=1A1512&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JecerSE&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=EDE6DA&title_color=C8321E&text_color=1A1512&icon_color=1A1512&ring_color=C8321E&border_color=1A1512&border_radius=0&custom_title=FIELD%20STATS" alt="GitHub Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/JecerSE/JecerSE/output/stats.svg" alt="Field stats"/>
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JecerSE&hide=HTML&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=EDE6DA&title_color=C8321E&text_color=1A1512&border_color=1A1512&border_radius=0&custom_title=LANGUAGE%20LOADOUT&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width="49%" src="https://raw.githubusercontent.com/JecerSE/JecerSE/output/langs.svg" alt="Language loadout"/>
   <a href="https://leetcode.com/u/Akafuyu/"><img width="49%" src="https://leetcard.jacoblin.cool/Akafuyu?theme=light&font=JetBrains%20Mono&ext=heatmap&border=2&radius=0" alt="LeetCode Stats"/></a>
 </p>
 <p align="center">
   <a href="https://www.codewars.com/users/Pursion"><img src="https://www.codewars.com/users/Pursion/badges/large" alt="Codewars rank"/></a>
 </p>
 <p align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=JecerSE&bg_color=EDE6DA&color=1A1512&line=C8321E&point=1A1512&area=true&area_color=E8B730&title_color=1A1512&hide_border=false&radius=0&custom_title=CONTRIBUTION%20LOG" alt="Contribution activity graph"/>
-</p>
-<!-- Trophy cards: the public instance is sometimes down. If it shows broken, self-host it or delete this block. -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JecerSE&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img width="99%" src="https://raw.githubusercontent.com/JecerSE/JecerSE/output/activity.svg" alt="Contribution log"/>
 </p>
 
 <p align="center">
