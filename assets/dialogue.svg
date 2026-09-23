@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 214" width="1200" height="214" role="img" aria-label="At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn."><title>At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn.</title>
+<defs><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4" height="10" fill="#1A1512" opacity=".12"/></pattern></defs>
+<rect x="14" y="44" width="1176" height="160" fill="#C8321E" stroke="#1A1512" stroke-width="4"/><rect x="4" y="34" width="1176" height="160" fill="#EDE6DA" stroke="#1A1512" stroke-width="4"/>
+<rect x="36" y="10" width="250" height="46" fill="#1A1512" stroke="#1A1512" stroke-width="3"/>
+<text x="54" y="41" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="800" fill="#EDE6DA" text-anchor="start" >PURSION // LOG</text>
+<text x="44" y="106" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="24" font-weight="500" fill="#1A1512" text-anchor="start" font-style="italic">“At the end of the day, virtue and dignity hold meaning only for those</text>
+<text x="44" y="142" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="24" font-weight="500" fill="#1A1512" text-anchor="start" font-style="italic"> who live to see the next dawn.”</text>
+<polygon points="1136,162 1160,162 1148,176" fill="#C8321E"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></polygon>
+</svg>

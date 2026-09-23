@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="06 — OFF-DUTY"><title>06 — OFF-DUTY</title>
+<defs><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4" height="10" fill="#1A1512" opacity=".12"/></pattern></defs>
+<rect x="12" y="12" width="1176" height="84" fill="#C8321E" stroke="#1A1512" stroke-width="4"/><rect x="4" y="4" width="1176" height="84" fill="#EDE6DA" stroke="#1A1512" stroke-width="4"/>
+<rect x="4" y="4" width="96" height="84" fill="#1A1512"/>
+<text x="52" y="60" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="40" font-weight="800" fill="#EDE6DA" text-anchor="middle" >06</text>
+<text x="128" y="60" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="38" font-weight="800" fill="#1A1512" text-anchor="start" letter-spacing="1">OFF-DUTY</text>
+<text x="1156" y="66" font-family="'Noto Serif CJK JP','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','Source Han Serif',serif" font-size="50" font-weight="900" fill="#C8321E" text-anchor="end" >休憩</text>
+</svg>

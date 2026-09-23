@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Operator file: Pursion"><title>Operator file: Pursion</title>
+<defs><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4" height="10" fill="#1A1512" opacity=".12"/></pattern></defs>
+<rect x="14" y="14" width="1176" height="446" fill="#C8321E" stroke="#1A1512" stroke-width="4"/><rect x="4" y="4" width="1176" height="446" fill="#EDE6DA" stroke="#1A1512" stroke-width="4"/>
+<rect x="4" y="4" width="1176" height="52" fill="#1A1512"/>
+<text x="28" y="38" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="800" fill="#EDE6DA" text-anchor="start" >PERSONNEL RECORD</text>
+<text x="1156" y="38" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#E8B730" text-anchor="end" >CLEARANCE: PUBLIC</text>
+<rect x="32" y="84" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="42" y="108" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >CODENAME</text>
+<text x="224" y="110" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >Pursion (pursion_)</text>
+<rect x="32" y="140" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="42" y="164" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >CLASS</text>
+<text x="224" y="166" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >Defender / Blue Team</text>
+<rect x="32" y="196" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="42" y="220" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >BRANCH</text>
+<text x="224" y="222" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >SOC Analyst (in training)</text>
+<rect x="32" y="252" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="42" y="276" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >AFFILIATION</text>
+<text x="224" y="278" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >UP Cebu · BS CompSci</text>
+<rect x="32" y="308" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="42" y="332" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >BASE</text>
+<text x="224" y="334" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >Cebu, Philippines</text>
+<rect x="620" y="84" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="630" y="108" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >CERT TARGET</text>
+<text x="812" y="110" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >CompTIA Security+ · mid-2027</text>
+<rect x="620" y="140" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="630" y="164" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >GRADUATION</text>
+<text x="812" y="166" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >Class of 2028</text>
+<rect x="620" y="196" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="630" y="220" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >CURRENT OP</text>
+<text x="812" y="222" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >Wazuh lab · phishing study</text>
+<rect x="620" y="252" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="630" y="276" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >ROADMAP</text>
+<text x="812" y="278" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >22-month SOC plan</text>
+<rect x="620" y="308" width="176" height="36" fill="#DDD3C3" stroke="#1A1512" stroke-width="2"/>
+<text x="630" y="332" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="800" fill="#1A1512" text-anchor="start" >OPEN TO</text>
+<text x="812" y="334" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="500" fill="#1A1512" text-anchor="start" >Collabs · internships</text>
+<line x1="592" y1="84" x2="592" y2="344" stroke="#1A1512" stroke-width="2" stroke-dasharray="6 6"/>
+<line x1="4" y1="370" x2="1180" y2="370" stroke="#1A1512" stroke-width="3"/>
+<text x="32" y="414" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" font-weight="800" fill="#1A1512" text-anchor="start" >TRAITS</text>
+<rect x="120" y="390" width="168" height="32" fill="#E8B730" stroke="#1A1512" stroke-width="3"/><text x="132" y="411.4" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1A1512" text-anchor="start" textLength="144" lengthAdjust="spacingAndGlyphs">C++ CLI TOOLING</text>
+<rect x="302" y="390" width="244" height="32" fill="#EDE6DA" stroke="#1A1512" stroke-width="3"/><text x="314" y="411.4" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1A1512" text-anchor="start" textLength="220" lengthAdjust="spacingAndGlyphs">COMPETITIVE PROGRAMMING</text>
+<rect x="560" y="390" width="225" height="32" fill="#C8321E" stroke="#1A1512" stroke-width="3"/><text x="572" y="411.4" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#EDE6DA" text-anchor="start" textLength="201" lengthAdjust="spacingAndGlyphs">DETECTION ENGINEERING</text>
+<rect x="799" y="390" width="129" height="32" fill="#EDE6DA" stroke="#1A1512" stroke-width="3"/><text x="811" y="411.4" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1A1512" text-anchor="start" textLength="105" lengthAdjust="spacingAndGlyphs">LINUX RICER</text>
+<rect x="942" y="390" width="129" height="32" fill="#E8B730" stroke="#1A1512" stroke-width="3"/><text x="954" y="411.4" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1A1512" text-anchor="start" textLength="105" lengthAdjust="spacingAndGlyphs">GAME DESIGN</text>
+</svg>

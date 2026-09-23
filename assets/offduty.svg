@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Off-duty: PLAYING: Arknights: Endfield, Skyblade; DREAMING UP: A xianxia idle game, Wizard SQL Duel; RICING: bruteon (current), Wuling (retired)"><title>Off-duty: PLAYING: Arknights: Endfield, Skyblade; DREAMING UP: A xianxia idle game, Wizard SQL Duel; RICING: bruteon (current), Wuling (retired)</title>
+<defs><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4" height="10" fill="#1A1512" opacity=".12"/></pattern></defs>
+<rect x="14" y="14" width="1176" height="176" fill="#C8321E" stroke="#1A1512" stroke-width="4"/><rect x="4" y="4" width="1176" height="176" fill="#EDE6DA" stroke="#1A1512" stroke-width="4"/>
+<rect x="4.0" y="4" width="392.0" height="50" fill="#E8B730" stroke="#1A1512" stroke-width="3"/>
+<text x="28.0" y="38" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="800" fill="#1A1512" text-anchor="start" >PLAYING</text>
+<text x="28.0" y="102" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="500" fill="#1A1512" text-anchor="start" >▪ Arknights: Endfield</text>
+<text x="28.0" y="146" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="500" fill="#1A1512" text-anchor="start" >▪ Skyblade</text>
+<line x1="396.0" y1="4" x2="396.0" y2="180" stroke="#1A1512" stroke-width="3"/>
+<rect x="396.0" y="4" width="392.0" height="50" fill="#EDE6DA" stroke="#1A1512" stroke-width="3"/>
+<text x="420.0" y="38" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="800" fill="#1A1512" text-anchor="start" >DREAMING UP</text>
+<text x="420.0" y="102" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="500" fill="#1A1512" text-anchor="start" >▪ A xianxia idle game</text>
+<text x="420.0" y="146" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="500" fill="#1A1512" text-anchor="start" >▪ Wizard SQL Duel</text>
+<line x1="788.0" y1="4" x2="788.0" y2="180" stroke="#1A1512" stroke-width="3"/>
+<rect x="788.0" y="4" width="392.0" height="50" fill="#C8321E" stroke="#1A1512" stroke-width="3"/>
+<text x="812.0" y="38" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="800" fill="#EDE6DA" text-anchor="start" >RICING</text>
+<text x="812.0" y="102" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="500" fill="#1A1512" text-anchor="start" >▪ bruteon (current)</text>
+<text x="812.0" y="146" font-family="'JetBrains Mono','JetBrainsMono Nerd Font','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="500" fill="#1A1512" text-anchor="start" >▪ Wuling (retired)</text>
+</svg>
